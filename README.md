@@ -1,2 +1,2 @@
 # DATATHON
-Repository for Datathon challenge
+Data Dudes repository for Challenge4ClimateAction Datathon challenge
